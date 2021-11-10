@@ -22,3 +22,5 @@ gestione del garage:
 - inserimento di un furgone (e conseguenti inserimenti dei dati di ogni veicolo),
 - possibilità di liberare un posto,
 - stampa della situazione corrente dei posti
+
+![image](https://user-images.githubusercontent.com/93668057/141199352-b3062673-9e6e-4608-9d61-c54fcbccbf89.png)

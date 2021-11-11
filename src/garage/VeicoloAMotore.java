@@ -1,6 +1,6 @@
 package garage;
 
-public class VeicoloAMotore
+public abstract class VeicoloAMotore
 {
 	protected int annoImmatricolazione;
 	protected String marca;
